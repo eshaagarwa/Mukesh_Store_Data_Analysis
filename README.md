@@ -5,6 +5,8 @@ Mukesh Store wants to create an Annual sales report so that, Vrinda can understa
 
 This project focuses on analyzing the sales data of Vrinda Store using Excel. The dataset was cleaned, processed, and analyzed to extract insights about the store's performance.
 
+
+
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
@@ -39,11 +41,11 @@ Now we created a new "Month" column.
 ## Data Analysis
 # Order Vs Sales
 
-![image](https://github.com/esha995/Mukesh_Store_Data_Analysis/blob/main/Mukesh%20Store%20Data%20Analysis%20Dashboard.png)
+![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/addaade3-b68c-4904-b629-85006d689630)
 - We find that sales and number of orders are highest for march.
 
 # Sales Men Vs Women
-![image]()
+![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/0712f733-6a09-4a3a-9358-a42300cf02c0)
 - We find that Women purchased more than Men
 
 # Order Status
@@ -65,7 +67,7 @@ Now we created a new "Month" column.
 - We find that highest orders were requested by Amazon and second highest orders for Myntra etc.
 
 # Dashboard
-![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/c48fed51-7fa3-43d3-8688-49fa8597dc78)
+![image](https://github.com/esha995/Mukesh_Store_Data_Analysis/blob/main/Mukesh%20Store%20Data%20Analysis%20Dashboard.png)
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
